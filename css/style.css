@@ -1,0 +1,180 @@
+body{
+    width:100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 24px;
+}
+
+
+
+.imagediv{
+    display: inline-flex;
+    vertical-align: middle;
+    margin-left:99px;
+    
+}
+
+.imgdiv1{
+    display:inline-flex;
+    
+    vertical-align: middle;
+}
+
+
+.innerdiv{
+    height:50px;
+    width:700px;
+    
+    margin-right: 78px;
+
+    
+    
+}
+
+
+.ul1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+    
+}
+.lis{
+    font-size: 17px;
+    color:#636060;
+    margin-top:20px;    
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section1{
+    margin-top:20px;
+}
+.img2{
+    width:100%;
+}
+
+
+.imgdiv{
+    position: relative;
+
+}
+
+.discover{
+    position: absolute;
+    font-size:79px;
+    color:white;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    font-weight:700;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.discover2{
+    position: absolute;
+    font-size:19px;
+    color:white;
+    top:60%;
+    left:53%;
+    transform: translate(-60%, -53%);
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+.section2{
+    margin-top:84px;
+    display: inline-block;
+}
+
+.idk{
+    font-size:17px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    color:#636060;
+}
+
+.our{
+    font-size:28px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+
+.idk2{
+    color:#636060;
+    font-size:20px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+}
+.div1{
+    margin-left:100px;
+    display:inline-block;
+    width:400px;
+
+}
+
+.cardsdiv{
+    
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 83px;
+    
+
+}
+
+.homea{
+    color:#636060;
+}
+
+
+
+
+
+.maincontainer{
+    display: flex;
+}
+.cards{
+    margin-left:33px;
+    margin-bottom:56px;
+}
+.name{
+    color:#343232;
+    margin-top:23px;
+    margin-bottom: 9px;
+    font-family: 'Roboto', sans-serif;
+}
+.desc{
+    color:#636060;
+    font-family: 'Roboto', sans-serif;
+}
